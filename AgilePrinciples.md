@@ -6,7 +6,7 @@ Khách hàng
 - Thoả mãn yêu cầu của khách hàng là ưu tiên cao nhất trong quản lý dự án agile. Việc nhận định khách hàng thuộc đối tượng nào, ở trong hay ngoài công ty không quá cần thiết. Điều quan trọng hơn ở đây là chúng ta cần biết dự án cần làm gì cho khách hàng và làm thế nào để tương tác một cách tốt nhất với khách hàng, thoả mãn với những gì mà họ cần. Điều đó có nghĩa là việc quản lý dự án agile không chỉ đơn thuần là hoàn thành list các việc được yêu cầu mà không quan tâm đến những gì họ cần, hay có ảnh hưởng gì đến khách hàng hay không.
 - Giao hàng sớm (early .... delivery)
 - Việc giao sản phẩm sớm là điều cần thiết. Đôi khi bạn muốn giữ lại vì phần đó chưa hoàn thành, muốn giành thêm thời gian để cải thiện nó và không muốn nhận những lời phê bình từ người khác. Tuy nhiên bạn cũng sẽ không muốn tốn thêm thời gian để làm những những thứ mà khách hàng không muốn đâu. Mà để khách hàng có thể confirm tiến độ công việc đang đúng như yêu cầu, có những feedback sớm thì con đường tốt nhất vẫn là việc chúng ta nên giao sản phẩm sớm cho khách hàng.
-- Có giá trị (valuable)
+-	
 - Dù chúng ta có đang quản lý cái gì đi nữa thì chúng cũng nên quy về cái cuối cùng đó là có giá trị. Nếu như khách hàng, end users không công nhận giá trị đó thì có lẽ nó không có giá trị gì với họ ngay từ lúc bắt đầu phát triển. Hoặc là nó đã không được phát triển theo đúng hướng để có thể tạo ra những giá trị, trải nghiệm cho khách hàng.
 - Đây là một nguyên tắc khá là nặng nề nhỉ, chắc vì thế mà nó là nguyên tắc đầu tiên, và nó yêu cầu "ưu tiên cao nhất"
 2. Chào đón việc thay đổi yêu cầu, thậm chí là những thay đổi yêu cầu muộn
