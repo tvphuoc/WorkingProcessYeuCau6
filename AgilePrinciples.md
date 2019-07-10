@@ -14,12 +14,12 @@
 	- Không được ở trong trạng thái căng thẳng, mệt mỏi, vì như vậy sẽ gây ra sự chán nản cho nhân viên.
 9. Liên tục quan tâm đến kĩ thuật và thiết kế để cải tiến sự linh hoạt
         -Liên tục cải tiến các quy trình, phương pháp, công cụ để tăng mức độ linh hoạt trong dự án. 
-        -Luôn nghĩ đến những phương pháp mới để code tốt hơn, kiểm thử tốt hơn như TDD (Test-driven development) , ATDD (Acceptance Test-driven development), kiểm thử tự động, CI v.vvv
+        -Luôn nghĩ đến những phương pháp mới để code tốt hơn, kiểm thử tốt hơn như TDD (Test-driven development) , ATDD (Acceptance 		Test-driven development), kiểm thử tự động, CI v.vvv
 10. Sự đơn giản là cần thiết – nghệ thuật tối đa hóa lượng công việc chưa hoàn thành
 	-Agile có nghĩa là linh hoạt và để linh hoạt uyển chuyển thì bạn phải tối giản hóa các công việc mình làm.
-	- Những việc nào cần thiết và mang lại giá trị thì mọi người sẽ cùng làm. Tuy nhiên việc xác định việc nào mang lại giá trị nhiều khi không đơn giản.
-	-Do đó, để đơn giản thì việc có giá trị là việc mà cả nhóm thống nhất và sẽ cam kết thực hiện. Chẳng hạn cả nhóm có thể thống nhất không phải viết “Báo cáo tiến độ hàng ngày” nếu như mọi người đều biết tiến độ của nhau và sếp của bạn cũng không có nhu cầu đọc
-	- Tương tự, bạn cũng không nhất thiết phải mô tả một con bug dài lê thê chỉ để theo đúng định dạng của hệ thống bug trong khi bạn đã báo và trao đổi với Dev về con bug đó và họ đã sửa nó. Tuy nhiên hãy cẩn thận
+	- Những việc nào cần thiết và mang lại giá trị thì mọi người sẽ cùng làm. Tuy nhiên việc xác định việc nào mang lại giá trị 		  nhiều khi không đơn giản.
+	-Do đó, để đơn giản thì việc có giá trị là việc mà cả nhóm thống nhất và sẽ cam kết thực hiện. Chẳng hạn cả nhóm có thể thống 		 nhất không phải viết “Báo cáo tiến độ hàng ngày” nếu như mọi người đều biết tiến độ của nhau và sếp của bạn cũng không có nhu              cầu đọc
+	- Tương tự, bạn cũng không nhất thiết phải mô tả một con bug dài lê thê chỉ để theo đúng định dạng của hệ thống bug trong khi 		   bạn đã báo và trao đổi với Dev về con bug đó và họ đã sửa nó. Tuy nhiên hãy cẩn thận
 	-Không phải bạn bỏ đi là bạn linh hoạt và tối ưu hóa công việc. Vấn đề là bạn bỏ đi những thứ không mang lại giá trị.
 11. Những bản kiến trúc, yêu cầu, thiết kế tốt nhất được tạo ra từ những team tự tổ chức
 	- Nguyên tắc này cho chúng ta thấy sự khác biệt hoàn toàn với team trong quản lý dự án truyền thống.Trong quản lý dự án Agile, chúng ta làm việc với những thành viên hiểu biết ở các mức trình độ khác nhau, họ cần phải có người thúc ép hay chỉ dẫn nhỏ nhặt trong công việc.Chúng ta cần phải có niềm tin và trao cho những thành viên khác ít kinh nghiệm hơn để họ có thể tự đưa ra quyết định và sáng tạo của bản thân họ.
