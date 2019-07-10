@@ -30,8 +30,10 @@ Khách hàng
 	- Phân bổ được thời gian một cách đồng đều và ổn định theo thời gian.
 	- Không được ở trong trạng thái căng thẳng, mệt mỏi, vì như vậy sẽ gây ra sự chán nản cho nhân viên.
 9. Liên tục quan tâm đến kĩ thuật và thiết kế để cải tiến sự linh hoạt
-        -Liên tục cải tiến các quy trình, phương pháp, công cụ để tăng mức độ linh hoạt trong dự án. 
-        -Luôn nghĩ đến những phương pháp mới để code tốt hơn, kiểm thử tốt hơn như TDD (Test-driven development) , ATDD (Acceptance 		Test-driven development), kiểm thử tự động, CI v.vvv
+        
+	-Liên tục cải tiến các quy trình, phương pháp, công cụ để tăng mức độ linh hoạt trong dự án. 
+        
+	-Luôn nghĩ đến những phương pháp mới để code tốt hơn, kiểm thử tốt hơn như TDD (Test-driven development) , ATDD (Acceptance 		Test-driven development), kiểm thử tự động, CI v.vvv
 10. Sự đơn giản là cần thiết – nghệ thuật tối đa hóa lượng công việc chưa hoàn thành
 	-Agile có nghĩa là linh hoạt và để linh hoạt uyển chuyển thì bạn phải tối giản hóa các công việc mình làm.
 	- Những việc nào cần thiết và mang lại giá trị thì mọi người sẽ cùng làm. Tuy nhiên việc xác định việc nào mang lại giá trị 		  nhiều khi không đơn giản.
